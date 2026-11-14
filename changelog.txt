@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2026-11-14
+  Features:
+    - Auto mode: the cannon stops when the target chest reaches a configurable number of used slots.
+    - The target is captured automatically when you aim the cannon with the targeter.
+    - Russian and English localisation.
+  Changes:
+    - Ported to Factorio 2.1.
