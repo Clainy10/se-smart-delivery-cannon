@@ -3,8 +3,8 @@
   "version": "0.2.0",
   "title": "SpaceExplo Smart Delivery Cannon",
   "author": "Clainy",
-  "contact": "",
-  "homepage": "",
+  "contact": "https://github.com/Clainy10, ",
+  "homepage": "https://github.com/Clainy10/se-smart-delivery-cannon",
   "description": "addon Automatic delivery cannons for Space Exploration, No more boommm. Very cool ;)",
   "factorio_version": "2.1",
   "dependencies": ["base >= 2.1.0", "space-exploration"]
